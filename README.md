@@ -33,7 +33,7 @@ Add your Secret access key, ie: dqlwefni2489SOJWIOHDS02pdSdjkw8923
 
 Add your region, mine is: eu-west-2
 
-For Default output format [None]: I just hit enter for none
+For Default output format [None]: I just hit Return for none
 
 
 
