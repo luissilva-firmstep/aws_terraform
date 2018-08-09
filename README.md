@@ -17,3 +17,6 @@ Add the the location to PATH variable:
 PATH=$PATH:~/terraform
 ```
 
+
+## Setting the credentials for AWS provisioning
+Make sure you have an AWS account created
