@@ -20,4 +20,6 @@ PATH=$PATH:~/terraform
 
 ## Setting the credentials for AWS provisioning
 Make sure you have an AWS account created
+
+
 ... to be continued
