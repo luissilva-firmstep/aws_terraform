@@ -16,8 +16,23 @@ PATH=$PATH:~/terraform
 ```
 
 
-## Setting the credentials for AWS provisioning
-Make sure you have an AWS account created
+## Setting AWS CLI
+Install AWS CLI:
+```
+apt install python-pip
+
+pip install awscli
+```
+
+```
+WS Access Key ID [None]: DOWPEFJE0F0WIOJ
+
+AWS Secret Access Key [None]: dqlwefni2489SOJWIOHDS02pdSdjkw8923
+
+Default region name [None]: eu-west-2
+
+Default output format [None]:
+```
 
 
 ... to be continued
