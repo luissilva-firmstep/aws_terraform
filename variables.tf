@@ -1,6 +1,6 @@
 variable "aws_region" {}
 variable "aws_profile" {}
-variable "localip" {}
+#variable "localip" {}
 variable "tag_vpc10-1-0-0-16" {}
 variable "db_instance_class" {}
 variable "dbname" {}
