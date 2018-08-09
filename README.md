@@ -3,6 +3,7 @@
 
 
 Download Terraform from their website: https://www.terraform.io/intro/getting-started/install.html, and click on **appropriate package**
+
 Here's the direct link for Linux 64-bit: https://releases.hashicorp.com/terraform/0.11.7/terraform_0.11.7_linux_amd64.zip
 
 Create a folder called Terraform and download terraform  for Linux 64-bit:
