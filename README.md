@@ -25,14 +25,16 @@ pip install awscli
 ```
 
 ```
-WS Access Key ID [None]: DOWPEFJE0F0WIOJ
-
-AWS Secret Access Key [None]: dqlwefni2489SOJWIOHDS02pdSdjkw8923
-
-Default region name [None]: eu-west-2
-
-Default output format [None]:
+aws configure
 ```
+Add your Access Key ID, ie: DOWPEFJE0F0WIOJ
+
+Add your Secret access key, ie: dqlwefni2489SOJWIOHDS02pdSdjkw8923
+
+Add your region, mine is: eu-west-2
+
+For Default output format [None]: I just hit enter for none
+
 
 
 ... to be continued
