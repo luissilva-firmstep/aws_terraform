@@ -9,7 +9,7 @@ Create a folder called Terraform and download terraform  for Linux 64-bit:
 ```
 mkdir ~\terraform
 
-cd ~/terraform
+cd ~\terraform
 ```
 ```
 wget https://releases.hashicorp.com/terraform/0.11.7/terraform_0.11.7_linux_amd64.zip
