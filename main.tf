@@ -1,6 +1,7 @@
 # provider tells which provider to use, such as AWS, Google Cloud, Azure, etc
 provider "aws" {
   region = "${var.aws_region}"
+  profile = "${var.aws_profile}"
 }
 
 data "aws_availability_zones" "available" {}
