@@ -4,3 +4,6 @@ terraform.tfstate.backup
 mylabscripts
 graph.svg
 wordpress.yml
+terraform.tfvars.swp
+variables.tf.swp
+
