@@ -139,7 +139,7 @@ resource "aws_key_pair" "auth" {
 
 # Server
 resource "aws_instance" "dev" {
-  instance_type = "${var.dev_instance_type}"
+ instance_type = "${var.dev_instance_type}"
   ami = "${var.dev_ami}"
   tags {
     Name = "web-wordpress"
