@@ -1,9 +1,9 @@
 #terraform.tfvars
 terraform.tfstate
-terraform.tfstate.backup
+.terraform.tfstate.backup
 mylabscripts
 graph.svg
 wordpress.yml
-terraform.tfvars.swp
+.terraform.tfvars.swp
 variables.tf.swp
 
