@@ -12,16 +12,16 @@ unzip terraform_0.11.7_linux_amd64.zip -d terraform
 
 Add the the location to PATH variable:
 ```
-PATH=$PATH:~/terraform
+export PATH=$PATH:~/terraform
 ```
 
 
 ## Setting AWS CLI
 Install AWS CLI:
 ```
-apt install python-pip
+sudo apt install python-pip
 
-pip install awscli
+sudo pip install awscli
 ```
 
 ```
