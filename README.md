@@ -1,5 +1,5 @@
 # AWS provisioning with Terraform
-## Terraform installation on Ubuntu, I'm using the lastest version 18:04
+## Terraform installation on Ubuntu, I'm using the lastest version Xenial or Bionic
 
 
 Download Terraform from their website: https://www.terraform.io/intro/getting-started/install.html, and click on **appropriate package**
