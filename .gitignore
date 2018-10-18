@@ -6,4 +6,6 @@ graph.svg
 wordpress.yml
 .terraform.tfvars.swp
 variables.tf.swp
+.terraform
+
 
